@@ -159,6 +159,7 @@ export default class Settings {
         results: [],
         reportedDisables: [],
         ruleMetadata: {},
+        report: "",
       } satisfies LinterResult
     }
   }
